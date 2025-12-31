@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @harshneolia
-- 👀 I’m interested in Frontend Web Development And UI/UX
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 Reach Me through Dm on Linkdln: https://bit.ly/3EJiMXm
+Software Developer at Capgemini (1.7 yrs experience)  
+Former Web Development Intern at Swastik Classes  
 
-<!---
-harshneolia/harshneolia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Interested in Web Development & clean code  
+🤝 Open to collaborating on Web Development projects  
+📫 Reach me via LinkedIn DM: https://bit.ly/3EJiMXm
